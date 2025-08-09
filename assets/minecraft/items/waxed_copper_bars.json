@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/copper_bars"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/wax_icon"
+      }
+    ]
+  }
+}
