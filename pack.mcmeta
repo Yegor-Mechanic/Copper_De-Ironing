@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "min_format": 65,
+        "max_format": 120,
+        "description": "Gives the new copper blocks & items their own identity ",
+        "author": "Yegor_Mechanic",
+        "contributors": ["F0X_jL"]
+    }
+}
